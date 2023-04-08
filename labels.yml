@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata: 
   name: sai-pod-lable
-  lables:
+  labels:
     course: docker
     duration : 25hr
     trainer: siva
