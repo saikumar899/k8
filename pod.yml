@@ -7,5 +7,5 @@ spec:
    - image: nginx
      name: sai-nginx
      ports:
-     - containerport: 80
+     - containerPort: 80
     
